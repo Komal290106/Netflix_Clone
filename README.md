@@ -1,12 +1,43 @@
-# React + Vite
+# Netflix Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and visually appealing Netflix clone built using React, Vite, and Firebase. This project demonstrates user authentication and dynamic UI rendering using modern frontend development tools.
 
-Currently, two official plugins are available:
+## Live Demo
+Deployed at: https://netflix-clone-psi-tawny-60.vercel.app
+## Screenshots
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## Technology Stack
+1. Frontend: React with Vite
+2. Authentication & Backend: Firebase Authentication
+3. Styling: CSS 
+4. Deployment: Vercel
+
+## Features
+1. User sign-in and sign-up with Firebase Authentication
+2. Clean, responsive UI inspired by Netflix
+3. Component-based architecture for scalability
+4. Protected routes for authenticated users (if implemented)
+5. Deployed on a production-ready platform
+
+## Getting Started
+To run the project locally, follow these steps:
+### Clone the repository
+git clone https://github.com/Komal290106/Netflix_Clone.git
+### Navigate to the project directory
+cd Netflix_Clone
+### Install dependencies
+npm install
+### Start the development server
+npm run dev
+
+## License
+This project is for learning purposes only. All rights to assets and branding used (e.g., Netflix logo or imagery) belong to their respective owners.
+
+## Author
+Komal
+GitHub: @Komal290106
+
