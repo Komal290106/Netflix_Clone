@@ -4,11 +4,8 @@ A responsive and visually appealing Netflix clone built using React, Vite, and F
 ## Live Demo
 Deployed at: https://netflix-clone-psi-tawny-60.vercel.app
 
-## Screenshots
-![Screenshot 2025-06-24 233007](https://github.com/user-attachments/assets/cae00079-5034-417d-9638-137343d0a5dc)
+## Screenshot
 ![Screenshot 2025-06-24 233033](https://github.com/user-attachments/assets/ba795228-fb04-4f53-98b2-b78dd15e1e53)
-![Screenshot 2025-06-24 233052](https://github.com/user-attachments/assets/1e1b20c5-2b88-401e-860d-0e0479762cfb)
-![Screenshot 2025-06-24 233109](https://github.com/user-attachments/assets/6a70a40a-53b3-4145-aa0d-7be609fbfd0a)
 
 ## Technology Stack
 1. Frontend: React with Vite
