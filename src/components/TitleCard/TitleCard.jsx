@@ -10,7 +10,8 @@ const TitleCard = ({ title, category }) => {
     method: 'GET',
     headers: {
       accept: 'application/json',
-      Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxYjk4YzhjZDY1N2QxNGFjOWViMjhjYTZlZDQ1MmE2ZSIsIm5iZiI6MTc1MDY5OTY5MS40LCJzdWIiOiI2ODU5OGVhYjJlZTY2YTAwOGNiMzQwN2QiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.pmD2JIxoILKMHRFOppBhUDhvKpLBQthahln3EL9bWyo'}
+      Authorization: `Bearer ${import.meta.env.VITE_TMDB_TOKEN}`
+    }
   };
 
   const handleWheel = (event) => {
