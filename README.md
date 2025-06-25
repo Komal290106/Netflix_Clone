@@ -1,9 +1,6 @@
 # Netflix Clone
 A responsive and visually appealing Netflix clone built using React, Vite, and Firebase. This project demonstrates user authentication and dynamic UI rendering using modern frontend development tools.
 
-## Live Demo
-Deployed at: https://netflix-clone-psi-tawny-60.vercel.app
-
 ## Screenshot
 ![Screenshot 2025-06-24 233033](https://github.com/user-attachments/assets/ba795228-fb04-4f53-98b2-b78dd15e1e53)
 
