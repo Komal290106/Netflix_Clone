@@ -8,7 +8,6 @@ A responsive and visually appealing Netflix clone built using React, Vite, and F
 1. Frontend: React with Vite
 2. Authentication & Backend: Firebase Authentication
 3. Styling: CSS 
-4. Deployment: Vercel
 
 ## Features
 1. User sign-in and sign-up with Firebase Authentication
